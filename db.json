@@ -8,7 +8,7 @@
         "episode": 500,
         "category":"Animation | Drama | Adventure",
         "studio":"Studio Pierrot",
-        "img": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg"
+        "img": "https://cdn.myanimelist.net/images/anime/1565/111305.jpg"
     },
     {
         "name": "One Piece",
@@ -17,7 +17,7 @@
         "episode": 700,
         "category":"Animation | Drama | Adventure",
         "studio":"Toei Animation",
-        "img": "https://myanimelist.cdn-dena.com/images/anime/6/73245.jpg"
+        "img": "https://cdn.myanimelist.net/images/anime/6/73245.jpg"
     },
     {
         "name": "Attack on Titan",
@@ -26,7 +26,7 @@
         "episode": 500,
         "category":"Animation | Drama | Adventure",
         "studio":"Wit Studio",
-        "img": "https://myanimelist.cdn-dena.com/images/anime/10/47347.jpg"
+        "img": "https://cdn.myanimelist.net/images/anime/10/47347.jpg"
     },
     {
         "name": "Monster",
@@ -35,7 +35,7 @@
         "episode": 70,
         "category":"Animation | Drama | Adventure",
         "studio":"Madhouse",
-        "img": "https://myanimelist.cdn-dena.com/images/anime/10/18793.jpg"
+        "img": "https://cdn.myanimelist.net/images/anime/10/18793.jpg"
     },
     {
         "name": "Death Note",
@@ -44,7 +44,7 @@
         "episode": 500,
         "category":"Animation | Adventure",
         "studio":"Madhouse",
-        "img": "https://myanimelist.cdn-dena.com/images/anime/9/9453.jpg"
+        "img": "https://cdn.myanimelist.net/images/anime/9/9453.jpg"
     },
     {
         "name": "Violet Evergarden",
@@ -53,16 +53,16 @@
         "episode": 14,
         "category":"Fantasy | Drama ",
         "studio":"Kyoto Animation",
-        "img": "https://myanimelist.cdn-dena.com/images/anime/1329/90618.jpg"
+        "img": "https://cdn.myanimelist.net/images/anime/1795/95088.jpg"
     },
     {
         "name": "Tokyo Ghoul",
-        "description": "",
+        "description": "Tokyo Ghoul (Japanese: 東京喰種トーキョーグール, Hepburn: Tōkyō Gūru) is a Japanese dark fantasy manga series written and illustrated by Sui Ishida. It was serialized in Shueisha's seinen manga magazine Weekly Young Jump from September 2011 to September 2014, and was collected in fourteen tankōbon volumes. A prequel, titled Tokyo Ghoul [Jack], ran online on Jump Live in 2013 and was collected in a single tankōbon volume. A sequel, titled Tokyo Ghoul:re, was serialized in Weekly Young Jump from October 2014 to July 2018, and was collected in sixteen tankōbon volumes. The story is set in a world where vicious species, known as ghouls, creatures that look like normal people but can only survive by eating human flesh, live among the human population in secrecy.",
         "Rating": "8.01",
         "episode": 12,
         "category":"Action | Mystery",
         "studio":"Studio Pierrot",
-        "img": "https://myanimelist.cdn-dena.com/images/anime/5/64449.jpg"
+        "img": "https://cdn.myanimelist.net/images/anime/1498/134443.jpg"
     },
     {
         "name": "Black Clover",
@@ -71,7 +71,7 @@
         "episode": 51,
         "category":"Magic | Shounen | Adventure",
         "studio":"Studio Pierrot",
-        "img": "https://myanimelist.cdn-dena.com/images/anime/2/88336.jpg"
+        "img": "https://cdn.myanimelist.net/images/anime/2/88336.jpg"
     },
     {
         "name": "Sword Art Online",
@@ -80,7 +80,7 @@
         "episode": 25,
         "category":"Drama | Adventure",
         "studio":"A-1 Pictures",
-        "img": "https://myanimelist.cdn-dena.com/images/anime/11/39717.jpg"
+        "img": "https://cdn.myanimelist.net/images/anime/11/39717.jpg"
     },
     {
         "name": "Nanatsu no Taizai",
@@ -89,7 +89,7 @@
         "episode": 24,
         "category":"Animation | Drama | Adventure",
         "studio":"A-1 Pictures",
-        "img": "https://myanimelist.cdn-dena.com/images/anime/8/65409.jpg"
+        "img": "https://cdn.myanimelist.net/images/anime/8/65409.jpg"
     },
     {
         "name": "Kiseijuu: Sei no Kakuritsu",
@@ -98,7 +98,7 @@
         "episode": 24,
         "category":"Animation | Drama | Adventure",
         "studio":"Madhouse",
-        "img": "https://myanimelist.cdn-dena.com/images/anime/3/73178.jpg"
+        "img": "https://cdn.myanimelist.net/images/anime/3/73178.jpg"
     },
     {
         "name": "Hunter x Hunter (2011)",
@@ -107,7 +107,7 @@
         "episode": 148,
         "category":"Animation | Drama | Adventure",
         "studio":"Madhouse",
-        "img": "https://myanimelist.cdn-dena.com/images/anime/11/33657.jpg"
+        "img": "https://cdn.myanimelist.net/images/anime/1305/132237.jpg"
     }
 
 ]
